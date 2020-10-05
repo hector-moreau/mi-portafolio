@@ -1,0 +1,39 @@
+body{
+    /* Font-family: 'Roboto', sans-serif; */
+    Font-family: "Helvetica Neue", "Open Sans", sans-serif;
+}
+
+/* Establece el tamaño de la imagen de la Fundacion */
+.navbar-brand img{	width: 50px;
+}
+
+.hero {
+    background-image: url("../img/linus-torvalds.jpg");
+    background-position: center;
+    background-size: cover;
+    color:blue;
+    text-align: center;
+    padding: 30rem 0;
+}
+
+.navbar{
+    background: #660066;
+}
+
+.green {
+    background-color: green;
+    min-height: 200px;
+}
+
+.card {
+    margin: 0 auto 40px auto;
+  }
+
+.trabajos {
+    background-color: #660066;
+}
+
+form {
+    display: block;
+    margin-top: 5em;
+  }
